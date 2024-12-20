@@ -20,6 +20,7 @@ To use this tool, you need the following:
   ```bash
   pip install pywifi
   ```
+- A **Wordlist**: A text file that has a list of potential passwords (e.g., you can use rockyou.txt which is available on the internet)
 
 ## Usage
 
