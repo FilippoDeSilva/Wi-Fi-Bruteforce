@@ -1,8 +1,10 @@
 
 # Wi-Fi Bruteforce Tool
 
-## Desclaimer
-This tool is intended for educational purposes, network security testing, and research only. **Ensure you have permission to test any network before using this tool**.
+### Disclaimer:
+
+The use of this tool is strictly limited to educational purposes or for security testing on networks you own or have explicit permission to test. Unauthorized use on networks without permission is illegal and unethical. **I'm not responsible for the misuse of this tool in any form use it at your own concise!**
+
 ## Description
 A Wi-Fi brute-forcing tool developed in Python. This script leverages advanced techniques, including multithreading, to speed up the process of testing passwords against Wi-Fi networks.
 
@@ -88,10 +90,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
 ```
-
-### Disclaimer:
-
-The use of this tool is strictly limited to educational purposes or for security testing on networks you own or have explicit permission to test. Unauthorized use on networks without permission is illegal and unethical.
 
 ## Contributing
 
