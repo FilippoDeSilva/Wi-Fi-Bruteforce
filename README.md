@@ -34,7 +34,7 @@ To use this tool, you need the following:
 To run the tool, execute the following command in your terminal:
 
 ```bash
-python wifi_bruteforce.py <SSID> <wordlist_file> --threads <number_of_threads> --start <start_index> --end <end_index>
+python Wi-Fi.py <SSID> <wordlist_file> --threads <number_of_threads> --start <start_index> --end <end_index>
 ```
 
 ### Arguments:
@@ -48,7 +48,7 @@ python wifi_bruteforce.py <SSID> <wordlist_file> --threads <number_of_threads> -
 ### Example:
 
 ```bash
-python wifi_bruteforce.py "MyWiFi" "passwords.txt" --threads 4 --start 0 --end 100
+python Wi-Fi.py "MyWiFi" "passwords.txt" --threads 4 --start 0 --end 100
 ```
 
 This will test the first 100 passwords from the `passwords.txt` file against the `MyWiFi` SSID using 4 threads.
